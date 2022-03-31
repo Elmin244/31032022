@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\31032022\bin\Debug\netcoreapp3.1\31032022.exe
+C:\Users\Lenovo\source\repos\31032022\bin\Debug\netcoreapp3.1\31032022.deps.json
+C:\Users\Lenovo\source\repos\31032022\bin\Debug\netcoreapp3.1\31032022.runtimeconfig.json
+C:\Users\Lenovo\source\repos\31032022\bin\Debug\netcoreapp3.1\31032022.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\31032022\bin\Debug\netcoreapp3.1\31032022.dll
+C:\Users\Lenovo\source\repos\31032022\bin\Debug\netcoreapp3.1\31032022.pdb
+C:\Users\Lenovo\source\repos\31032022\obj\Debug\netcoreapp3.1\31032022.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\31032022\obj\Debug\netcoreapp3.1\31032022.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\31032022\obj\Debug\netcoreapp3.1\31032022.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\31032022\obj\Debug\netcoreapp3.1\31032022.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\31032022\obj\Debug\netcoreapp3.1\31032022.dll
+C:\Users\Lenovo\source\repos\31032022\obj\Debug\netcoreapp3.1\31032022.pdb
+C:\Users\Lenovo\source\repos\31032022\obj\Debug\netcoreapp3.1\31032022.genruntimeconfig.cache
